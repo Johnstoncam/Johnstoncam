@@ -7,7 +7,7 @@
 
 - 🥅 2022 Goals: Secure a Junior Software Developer role at a company that shares my values. Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day.
 
-- 💡 Ideas: I believe technology has the power to reshape institutions and help democratise opportunity worldwide. I value what I don't know more than what I do.
+- 💡 I believe technology has the power to reshape institutions and help democratise opportunity worldwide. I value what I don't know more than what I do.
 
 - 🙋‍♂️ Passionate, with a heavy dose of humility.
 
