@@ -5,7 +5,7 @@
 
 - 🌱 I recently took a leap of faith, leaving behind a career in whisky marketing to pursue my passion for software and technology. I’m currently trying to learn everything 😅
 
-- 🥅 2022 Goals: Secure a Junior Software Developer role at a company that shares my values. Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day.
+- 🥅 2022 Goals: commence a Junior Software Developer role at a company that shares my values. Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day.
 
 - 💡 I believe technology has the power to reshape institutions and help democratise opportunity worldwide. I value what I don't know more than what I do.
 
