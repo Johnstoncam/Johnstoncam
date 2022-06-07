@@ -7,11 +7,7 @@
 - 🥅 2022 Goals: Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
 - ⚡ Fun facts: 
 
-I was recently challenged to ask a wide variety people the following question:
 
-"The good, the bad and the ugly, what three words would you used to describe me?"
-
-![wordcloud](./img/wordcloud.png)
 
 ### Connect with me:
 
@@ -63,7 +59,11 @@ I was recently challenged to ask a wide variety people the following question:
 
 </details>
 
+## I was recently challenged to ask a wide variety people the following question:
 
+### "The good, the bad and the ugly, what three words would you used to describe me?"
+
+![wordcloud](./img/wordcloud.png)
 
 [instagram]: https://instagram.com/whisky_cam
 [linkedin]: https://linkedin.com/in/johnstoncameron
