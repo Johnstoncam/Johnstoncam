@@ -5,7 +5,15 @@
 
 - 🌱 I recently took a leap of faith, leaving behind a career in whisky marketing to pursue my passion for software and technology. I’m currently trying to learn everything 😅
 - 🥅 2022 Goals: Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
-- ⚡ Fun facts: 
+- ⚡ Fun facts:
+
+### My journey so far:
+
+[x] Fullstack web app tracking group spending - Python with Flask and PostgreSQL
+[x] Fullstack, supplementary educational web app - Javascript with React and MogoDB (collaborative project)
+[ ] Java
+[ ] Solidity
+
 
 
 
