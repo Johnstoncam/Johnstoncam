@@ -3,9 +3,15 @@
 
 ## I'm a Junior Software Developer with a background in Whisky marketing 🥃
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun facts:
+- 🌱 I recently took a leap of faith, leaving behind a career in whisky marketing to pursue my passion for software and technology. I’m currently trying to learn everything 😅
+- 🥅 2022 Goals: Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
+- ⚡ Fun facts: 
+
+I was recently challenged to ask a wide variety people the following question:
+
+"The good, the bad and the ugly, what three words would you used to describe me?"
+
+[![wordcloud](./img/wordcloud.png)]
 
 ### Connect with me:
 
