@@ -16,9 +16,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/whisky_cam#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/whisky_cam#gh-dark-mode-only)
 
-
-<br />
-<br />
+---
 
 ### Languages and Tools:
 
