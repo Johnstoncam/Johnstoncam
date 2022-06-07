@@ -9,10 +9,10 @@
 
 ### My journey so far:
 
-[x] Fullstack web app tracking group spending - Python with Flask and PostgreSQL
-[x] Fullstack, supplementary educational web app - Javascript with React and MogoDB (collaborative project)
-[ ] Java
-[ ] Solidity
+- [x] Fullstack web app tracking group spending - Python with Flask and PostgreSQL
+- [x] Fullstack, supplementary educational web app - Javascript with React and MogoDB (collaborative project)
+- [ ] Java
+- [ ] Solidity
 
 
 
