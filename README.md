@@ -11,7 +11,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/johnstoncameron#gh-light-mode-only)
+[![website](./img/linkedin-light.png)](https://linkedin.com/in/johnstoncameron#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/johnstoncameron#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/whisky_cam#gh-light-mode-only)
