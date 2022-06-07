@@ -72,7 +72,7 @@
 
 ## I was recently challenged to ask a variety of ex-colleagues, friends and family the following question:
 
-### "The good, the bad and the ugly: what three words would you used to describe me?"
+### "The good, the bad and the ugly: what three words would you use to describe me?"
 
 ![wordcloud](./img/wordcloud.png)
 
