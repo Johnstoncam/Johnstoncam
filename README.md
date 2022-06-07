@@ -4,8 +4,8 @@
 ## I'm a Junior Software Developer with a background in Whisky marketing 🥃
 
 - 🌱 I recently took a leap of faith, leaving behind a career in whisky marketing to pursue my passion for software and technology. I’m currently trying to learn everything 😅
-- 🥅 2022 Goals: Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
-- 💡 Ideas: I believe technology has the power to reshape institutions and help democratise opportunity. I value what I don't know more than what I do.
+- 🥅 2022 Goals: Secure a junior software developer at a company that shares my values. Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
+- 💡 Ideas: I believe technology has the power to reshape institutions and help democratise opportunity worldwide. I value what I don't know more than what I do.
 
 ### My journey so far:
 
@@ -69,7 +69,7 @@
 
 ---
 
-## I was recently challenged to ask a wide variety people the following question:
+## I was recently challenged to ask a wide variety friends, family and ex-colleagues the following question:
 
 ### "The good, the bad and the ugly, what three words would you used to describe me?"
 
