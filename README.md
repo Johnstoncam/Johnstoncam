@@ -11,7 +11,7 @@ I was recently challenged to ask a wide variety people the following question:
 
 "The good, the bad and the ugly, what three words would you used to describe me?"
 
-[![wordcloud](./img/wordcloud.png)]
+![wordcloud](./img/wordcloud.png)
 
 ### Connect with me:
 
