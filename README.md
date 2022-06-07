@@ -10,11 +10,11 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/johnstoncameron#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/johnstoncameron#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/whisky_cam#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/whisky_cam#gh-dark-mode-only)
 
 
 <br />
@@ -40,8 +40,7 @@
 <img align="left" alt="Npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="PosgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
+
 
 
 
