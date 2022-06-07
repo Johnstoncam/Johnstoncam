@@ -5,7 +5,7 @@
 
 - 🌱 I recently took a leap of faith, leaving behind a career in whisky marketing to pursue my passion for software and technology. I’m currently trying to learn everything 😅
 - 🥅 2022 Goals: Learn more about smart contracts; maybe even Solidity if I can find enough hours in the day
-- ⚡ Fun facts:
+- 💡 Ideas: I believe technology has the power to reshape institutions and help democratise opportunity. I value what I don't know more than what I do.
 
 ### My journey so far:
 
