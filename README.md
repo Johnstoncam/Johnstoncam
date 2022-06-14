@@ -15,7 +15,7 @@
 
 - [x] Python with Flask and PostgreSQL - Fullstack web app tracking group spending
 - [x] Javascript with React and MogoDB (collaborative project) - Fullstack web app providing supplementary educational resources to a specific target audience
-- [ ] Java
+- [x] Java
 - [ ] Solidity
 
 
